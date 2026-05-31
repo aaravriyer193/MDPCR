@@ -1,0 +1,1946 @@
+[
+  {
+    "q": "What is the capital of Japan?",
+    "a": "The capital of Japan is Tokyo."
+  },
+  {
+    "q": "How does photosynthesis work?",
+    "a": "Plants take in sunlight, water, and carbon dioxide to produce oxygen and energy in the form of sugar."
+  },
+  {
+    "q": "What is water made of?",
+    "a": "Water is composed of two hydrogen atoms and one oxygen atom, commonly known as H2O."
+  },
+  {
+    "q": "How do you make a sandwich?",
+    "a": "Take two slices of bread, add your favorite spreads like butter or mayo, and layer cheese, meat, or vegetables between them."
+  },
+  {
+    "q": "Who wrote Romeo and Juliet?",
+    "a": "William Shakespeare wrote the play Romeo and Juliet in the late 16th century."
+  },
+  {
+    "q": "Why do we sleep?",
+    "a": "Sleep allows our body and brain to rest, repair cells, and process information from the day."
+  },
+  {
+    "q": "What is a black hole?",
+    "a": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "q": "How long does it take for Earth to orbit the sun?",
+    "a": "It takes the Earth approximately 365.25 days to complete one full orbit around the sun."
+  },
+  {
+    "q": "What is the largest mammal on Earth?",
+    "a": "The blue whale is the largest mammal on Earth, capable of reaching lengths of over 100 feet."
+  },
+  {
+    "q": "How do airplanes fly?",
+    "a": "Airplanes fly due to the shape of their wings, which creates lift by making air move faster over the top than underneath."
+  },
+  {
+    "q": "What is the freezing point of water?",
+    "a": "Water freezes at 32 degrees Fahrenheit or 0 degrees Celsius."
+  },
+  {
+    "q": "Who was Albert Einstein?",
+    "a": "Albert Einstein was a theoretical physicist known for developing the theory of relativity."
+  },
+  {
+    "q": "How do you say hello in Spanish?",
+    "a": "You say hello in Spanish by saying 'Hola'."
+  },
+  {
+    "q": "What is the closest planet to the sun?",
+    "a": "Mercury is the closest planet to the sun in our solar system."
+  },
+  {
+    "q": "Why do leaves change color in autumn?",
+    "a": "As days get shorter and cooler, plants stop making chlorophyll, allowing other hidden pigments like red and yellow to show."
+  },
+  {
+    "q": "What is gravity?",
+    "a": "Gravity is an invisible force that pulls objects toward each other, keeping us on the ground and planets in orbit."
+  },
+  {
+    "q": "How do you treat a minor burn?",
+    "a": "Cool the burn under cold running water for several minutes, then cover it with a sterile bandage. Do not apply ice directly."
+  },
+  {
+    "q": "What is a prime number?",
+    "a": "A prime number is a whole number greater than 1 whose only divisors are 1 and itself."
+  },
+  {
+    "q": "What causes earthquakes?",
+    "a": "Earthquakes are usually caused by the sudden release of energy in the Earth's crust that creates seismic waves, often due to tectonic plates shifting."
+  },
+  {
+    "q": "How many continents are there?",
+    "a": "There are seven continents on Earth: Africa, Antarctica, Asia, Europe, North America, Australia, and South America."
+  },
+  {
+    "q": "What is DNA?",
+    "a": "DNA is a molecule that carries the genetic instructions used in the growth, development, and functioning of all known living organisms."
+  },
+  {
+    "q": "Who painted the Mona Lisa?",
+    "a": "Leonardo da Vinci painted the Mona Lisa in the early 16th century."
+  },
+  {
+    "q": "How do bees make honey?",
+    "a": "Bees collect nectar from flowers, store it in their stomachs, and then break it down with enzymes before storing it in honeycombs to evaporate."
+  },
+  {
+    "q": "What is the fastest land animal?",
+    "a": "The cheetah is the fastest land animal, capable of reaching speeds up to 70 miles per hour."
+  },
+  {
+    "q": "How does a compass work?",
+    "a": "A compass has a magnetic needle that aligns itself with the Earth's magnetic field, pointing towards the magnetic north pole."
+  },
+  {
+    "q": "What is the main ingredient in bread?",
+    "a": "Flour is the main ingredient in bread, usually combined with water, yeast, and salt."
+  },
+  {
+    "q": "Who was the first person to walk on the moon?",
+    "a": "Neil Armstrong was the first person to walk on the moon on July 20, 1969."
+  },
+  {
+    "q": "What is a rainbow?",
+    "a": "A rainbow is a meteorological phenomenon that is caused by reflection, refraction, and dispersion of light in water droplets resulting in a spectrum of light."
+  },
+  {
+    "q": "How do you tie a shoe?",
+    "a": "Cross the laces and pull tight, make a loop with one lace, wrap the other lace around it, and pull a second loop through the hole."
+  },
+  {
+    "q": "What is the tallest mountain in the world?",
+    "a": "Mount Everest is the tallest mountain above sea level, located in the Himalayas."
+  },
+  {
+    "q": "How much water should a person drink daily?",
+    "a": "A common recommendation is to drink eight 8-ounce glasses of water a day, but individual needs can vary."
+  },
+  {
+    "q": "What is artificial intelligence?",
+    "a": "Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems."
+  },
+  {
+    "q": "Why do humans sweat?",
+    "a": "Sweating is the body's natural way of regulating temperature and cooling down when it gets too hot."
+  },
+  {
+    "q": "What are the three states of matter?",
+    "a": "The three primary states of matter are solid, liquid, and gas."
+  },
+  {
+    "q": "How do fish breathe underwater?",
+    "a": "Fish breathe by taking in water through their mouths and passing it over their gills, which extract dissolved oxygen."
+  },
+  {
+    "q": "What is the internet?",
+    "a": "The internet is a global network of interconnected computers and servers that communicate and share information."
+  },
+  {
+    "q": "What makes the ocean salty?",
+    "a": "The ocean is salty primarily because of dissolved minerals, like sodium chloride, that are washed into it from rivers and streams over millions of years."
+  },
+  {
+    "q": "How do vaccines work?",
+    "a": "Vaccines train the immune system to recognize and fight pathogens, either viruses or bacteria, without causing the disease itself."
+  },
+  {
+    "q": "What is a telescope?",
+    "a": "A telescope is an optical instrument designed to make distant objects appear nearer, containing an arrangement of lenses or curved mirrors."
+  },
+  {
+    "q": "Why does the moon have phases?",
+    "a": "The moon has phases because it orbits Earth, which causes the portion we see illuminated by the sun to change over the course of a month."
+  },
+  {
+    "q": "What is an ecosystem?",
+    "a": "An ecosystem is a geographic area where plants, animals, and other organisms work together to form a bubble of life."
+  },
+  {
+    "q": "How does a microwave heat food?",
+    "a": "A microwave heats food by passing microwave radiation through it, which makes the water molecules vibrate and produce heat."
+  },
+  {
+    "q": "What is anxiety?",
+    "a": "Anxiety is a natural body response to stress, characterized by feelings of fear, apprehension, or nervousness."
+  },
+  {
+    "q": "How do you make pasta?",
+    "a": "Boil a large pot of salted water, add the pasta, and cook it until tender but firm to the bite, then drain."
+  },
+  {
+    "q": "Who invented the telephone?",
+    "a": "Alexander Graham Bell is credited with patenting the first practical telephone in 1876."
+  },
+  {
+    "q": "What is inflation?",
+    "a": "Inflation is the rate at which the general level of prices for goods and services is rising, leading to falling purchasing power."
+  },
+  {
+    "q": "How do bats navigate in the dark?",
+    "a": "Bats navigate and find food in the dark using echolocation, emitting sound waves that bounce off objects and return to their ears."
+  },
+  {
+    "q": "What is the longest river in the world?",
+    "a": "The Nile River is traditionally considered the longest river in the world, though some studies suggest the Amazon might be longer."
+  },
+  {
+    "q": "Why do people cry?",
+    "a": "People cry in response to strong emotions like sadness, joy, or frustration, and it helps to soothe and regulate the emotional state."
+  },
+  {
+    "q": "How does a refrigerator keep food cold?",
+    "a": "A refrigerator works by evaporating a refrigerant liquid to absorb heat from inside the fridge, then compressing the gas to release the heat outside."
+  },
+  {
+    "q": "What is the capital of Australia?",
+    "a": "The capital of Australia is Canberra."
+  },
+  {
+    "q": "How does a hot air balloon work?",
+    "a": "It works on the principle that hot air rises because it is less dense than the cooler air surrounding it."
+  },
+  {
+    "q": "What is the largest ocean on Earth?",
+    "a": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions."
+  },
+  {
+    "q": "Who discovered penicillin?",
+    "a": "Alexander Fleming discovered penicillin in 1928."
+  },
+  {
+    "q": "Why is the sky blue?",
+    "a": "The sky is blue because molecules in the air scatter blue light from the sun more than they scatter red light."
+  },
+  {
+    "q": "What is a tsunami?",
+    "a": "A tsunami is a series of massive ocean waves caused by underwater earthquakes, volcanic eruptions, or landslides."
+  },
+  {
+    "q": "How do you boil an egg?",
+    "a": "Place the egg in boiling water and let it cook for about 6 to 9 minutes, depending on how soft or hard you want the yolk."
+  },
+  {
+    "q": "What is the hardest natural substance on Earth?",
+    "a": "Diamond is the hardest known natural substance, made of carbon atoms arranged in a crystal structure."
+  },
+  {
+    "q": "What is empathy?",
+    "a": "Empathy is the ability to understand and share the feelings of another person."
+  },
+  {
+    "q": "How do plants drink water?",
+    "a": "Plants absorb water from the soil through their roots, which then travels up the stem to the leaves."
+  },
+  {
+    "q": "What is the capital of Canada?",
+    "a": "The capital of Canada is Ottawa."
+  },
+  {
+    "q": "How does a camera work?",
+    "a": "A camera captures light through a lens and records it on a photosensitive surface or digital sensor to create an image."
+  },
+  {
+    "q": "What are clouds made of?",
+    "a": "Clouds are made of tiny water droplets or ice crystals floating in the atmosphere."
+  },
+  {
+    "q": "Who was Cleopatra?",
+    "a": "Cleopatra was the last active ruler of the Ptolemaic Kingdom of Egypt, known for her political alliances with Rome."
+  },
+  {
+    "q": "Why do cats purr?",
+    "a": "Cats typically purr when they are relaxed and happy, but they also purr to self-soothe when they are stressed or in pain."
+  },
+  {
+    "q": "What is an atom?",
+    "a": "An atom is the basic building block of all matter, consisting of a nucleus surrounded by electrons."
+  },
+  {
+    "q": "How do you jump-start a car?",
+    "a": "Connect the positive jumper cable to both batteries' positive terminals, the negative to the good battery, and ground the last negative clamp on the dead car's metal."
+  },
+  {
+    "q": "What is the speed of light?",
+    "a": "The speed of light in a vacuum is approximately 299,792 kilometers per second (or about 186,282 miles per second)."
+  },
+  {
+    "q": "What causes the seasons?",
+    "a": "The Earth's seasons are caused by the tilt of its axis as it orbits the sun."
+  },
+  {
+    "q": "How do you say 'thank you' in French?",
+    "a": "You say 'thank you' in French by saying 'Merci'."
+  },
+  {
+    "q": "What is a hurricane?",
+    "a": "A hurricane is a large rotating storm with high speed winds that forms over warm waters in tropical areas."
+  },
+  {
+    "q": "What is the difference between a fruit and a vegetable?",
+    "a": "Botanically, fruits develop from the flower of a plant and contain seeds, while vegetables are other plant parts like roots, leaves, or stems."
+  },
+  {
+    "q": "Who wrote 'To Kill a Mockingbird'?",
+    "a": "Harper Lee wrote the classic American novel 'To Kill a Mockingbird'."
+  },
+  {
+    "q": "How do snakes move?",
+    "a": "Snakes move using flexible scales on their belly and strong muscles to push off the ground in a slithering motion."
+  },
+  {
+    "q": "What is nostalgia?",
+    "a": "Nostalgia is a sentimental longing or wistful affection for the past, typically for a period or place with happy personal associations."
+  },
+  {
+    "q": "How do you format a USB drive?",
+    "a": "Plug it into a computer, right-click the drive in your file manager, select 'Format', choose your preferred file system, and click 'Start'."
+  },
+  {
+    "q": "What is the solar system?",
+    "a": "The solar system is a gravitationally bound system comprising the Sun and the objects that orbit it, including eight planets."
+  },
+  {
+    "q": "Why do apples turn brown when cut?",
+    "a": "Apples turn brown because an enzyme in the fruit reacts with oxygen in the air, a process called oxidation."
+  },
+  {
+    "q": "What is a democracy?",
+    "a": "Democracy is a system of government where power is vested in the people, who rule either directly or through freely elected representatives."
+  },
+  {
+    "q": "How many bones are in the adult human body?",
+    "a": "The adult human body has 206 bones."
+  },
+  {
+    "q": "What is the capital of Italy?",
+    "a": "The capital of Italy is Rome."
+  },
+  {
+    "q": "How do you make tea?",
+    "a": "Boil water, pour it over a tea bag or loose tea leaves in a mug, and let it steep for a few minutes before removing the tea."
+  },
+  {
+    "q": "What is a galaxy?",
+    "a": "A galaxy is a massive system consisting of stars, stellar remnants, interstellar gas, dust, and dark matter bound together by gravity."
+  },
+  {
+    "q": "Who painted the Starry Night?",
+    "a": "Vincent van Gogh painted The Starry Night in 1889."
+  },
+  {
+    "q": "Why do dogs pant?",
+    "a": "Dogs pant to cool themselves down because they do not sweat through their skin like humans do."
+  },
+  {
+    "q": "What is the largest desert in the world?",
+    "a": "The Antarctic Desert is the largest desert in the world, as deserts are defined by their low precipitation, not temperature."
+  },
+  {
+    "q": "How do you say 'goodbye' in Japanese?",
+    "a": "You say 'goodbye' in Japanese by saying 'Sayonara'."
+  },
+  {
+    "q": "What is a volcano?",
+    "a": "A volcano is a rupture in the crust of a planetary-mass object that allows hot lava, volcanic ash, and gases to escape from a magma chamber below."
+  },
+  {
+    "q": "What is the main ingredient in guacamole?",
+    "a": "The main ingredient in guacamole is mashed avocados."
+  },
+  {
+    "q": "How does soap clean your hands?",
+    "a": "Soap molecules have one end that attracts water and another that attracts oil and dirt, allowing water to wash away the trapped grime."
+  },
+  {
+    "q": "What is a noun?",
+    "a": "A noun is a word that represents a person, place, thing, or idea."
+  },
+  {
+    "q": "Who was Abraham Lincoln?",
+    "a": "Abraham Lincoln was the 16th President of the United States, who led the country through the Civil War and abolished slavery."
+  },
+  {
+    "q": "Why do we blink?",
+    "a": "We blink to keep our eyes lubricated, remove dust, and protect them from bright lights or debris."
+  },
+  {
+    "q": "What is the tallest animal in the world?",
+    "a": "The giraffe is the tallest living terrestrial animal, known for its extremely long neck and legs."
+  },
+  {
+    "q": "How do you ride a bicycle?",
+    "a": "Sit on the seat, hold the handlebars, place your feet on the pedals, and push forward while maintaining your balance."
+  },
+  {
+    "q": "What is the Great Wall of China?",
+    "a": "It is a series of ancient fortifications built across the historical northern borders of ancient Chinese states to protect against nomadic groups."
+  },
+  {
+    "q": "What causes a rainbow?",
+    "a": "A rainbow is caused by sunlight shining through water droplets in the air, which bends and splits the light into different colors."
+  },
+  {
+    "q": "How many planets are in the solar system?",
+    "a": "There are eight confirmed planets in our solar system."
+  },
+  {
+    "q": "What is a verb?",
+    "a": "A verb is a word used to describe an action, state, or occurrence."
+  },
+  {
+    "q": "Why do penguins live in cold climates?",
+    "a": "Penguins have adapted to cold climates with thick layers of blubber and densely packed feathers that insulate them from the freezing temperatures."
+  },
+  {
+    "q": "What is happiness?",
+    "a": "Happiness is an emotional state characterized by feelings of joy, satisfaction, contentment, and fulfillment."
+  },
+  {
+    "q": "How do you fold a t-shirt?",
+    "a": "Lay the shirt flat face down, fold the sleeves inward, fold the bottom half up to the top, and flip it over."
+  },
+  {
+    "q": "What is the capital of France?",
+    "a": "The capital of France is Paris."
+  },
+  {
+    "q": "How does a seed grow into a plant?",
+    "a": "A seed germinates when given water, warmth, and oxygen, sending roots into the soil and a shoot up toward the sunlight."
+  },
+  {
+    "q": "What is the heaviest naturally occurring element?",
+    "a": "Uranium is generally considered the heaviest naturally occurring element on Earth."
+  },
+  {
+    "q": "Who invented the lightbulb?",
+    "a": "Thomas Edison is credited with inventing the first practical, long-lasting incandescent lightbulb."
+  },
+  {
+    "q": "Why do we yawn?",
+    "a": "Yawning is thought to be a way to cool the brain or bring more oxygen into the blood when we are tired or bored."
+  },
+  {
+    "q": "What is a hurricane's eye?",
+    "a": "The eye of a hurricane is the calm, clear center of the storm, surrounded by the eyewall where the most severe weather occurs."
+  },
+  {
+    "q": "How do you make a campfire?",
+    "a": "Gather dry tinder, kindling, and larger logs. Arrange the tinder and kindling in a teepee shape, light the tinder, and slowly add larger logs as the fire grows."
+  },
+  {
+    "q": "What is the boiling point of water?",
+    "a": "The boiling point of water is 212 degrees Fahrenheit or 100 degrees Celsius at sea level."
+  },
+  {
+    "q": "What is grief?",
+    "a": "Grief is a natural emotional response to loss, often involving profound sadness and a period of mourning."
+  },
+  {
+    "q": "How do spiders make webs?",
+    "a": "Spiders produce liquid silk from glands in their abdomen, which solidifies into a strong thread as they pull it out using their spinnerets."
+  },
+  {
+    "q": "What is the currency of the United Kingdom?",
+    "a": "The currency of the United Kingdom is the British Pound Sterling."
+  },
+  {
+    "q": "How does a thermometer work?",
+    "a": "Traditional thermometers use a liquid like alcohol or mercury that expands as it gets warmer, rising up a marked glass tube to indicate the temperature."
+  },
+  {
+    "q": "What are the primary colors?",
+    "a": "The primary colors of pigment are red, blue, and yellow. They cannot be created by mixing other colors together."
+  },
+  {
+    "q": "Who was Marie Curie?",
+    "a": "Marie Curie was a pioneering physicist and chemist who conducted groundbreaking research on radioactivity and won two Nobel Prizes."
+  },
+  {
+    "q": "Why is the ocean blue?",
+    "a": "The ocean is blue because water absorbs colors in the red part of the light spectrum, leaving the blue light to be reflected back to our eyes."
+  },
+  {
+    "q": "What is a mammal?",
+    "a": "A mammal is a warm-blooded vertebrate animal distinguished by the possession of hair or fur, and females that secrete milk for the nourishment of their young."
+  },
+  {
+    "q": "How do you reset a router?",
+    "a": "Unplug the router from its power source, wait about 30 seconds, and then plug it back in to let it restart."
+  },
+  {
+    "q": "What is the Colosseum?",
+    "a": "The Colosseum is an ancient oval amphitheatre located in the center of Rome, Italy, famous for hosting gladiatorial contests."
+  },
+  {
+    "q": "What makes a year a leap year?",
+    "a": "A leap year has 366 days instead of 365, adding an extra day in February to keep our calendar in alignment with the Earth's revolutions around the Sun."
+  },
+  {
+    "q": "How do birds fly?",
+    "a": "Birds fly using their strong chest muscles to flap their wings, which are shaped to create lift and thrust through the air."
+  },
+  {
+    "q": "What is photosynthesis?",
+    "a": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water."
+  },
+  {
+    "q": "Why do we dream?",
+    "a": "While the exact reason is unknown, dreaming is believed to help process emotions, consolidate memories, and solve problems from our waking life."
+  },
+  {
+    "q": "What is an adjective?",
+    "a": "An adjective is a word that describes or modifies a noun or pronoun, such as 'red', 'quick', or 'happy'."
+  },
+  {
+    "q": "How do you cook rice?",
+    "a": "Rinse the rice, add it to a pot with water (usually a 1:2 ratio), bring to a boil, then cover and simmer on low heat until the water is absorbed."
+  },
+  {
+    "q": "What is the Eiffel Tower?",
+    "a": "The Eiffel Tower is a wrought-iron lattice tower in Paris, France, built in 1889 as the entrance to the 1889 World's Fair."
+  },
+  {
+    "q": "What is a meteorite?",
+    "a": "A meteorite is a solid piece of debris from an object, such as a comet or asteroid, that survives its passage through the atmosphere to reach the surface of a planet."
+  },
+  {
+    "q": "How do you plant a tree?",
+    "a": "Dig a hole twice as wide as the root ball, place the tree in the hole, backfill with soil, pack it gently, and water thoroughly."
+  },
+  {
+    "q": "What is the speed of sound?",
+    "a": "The speed of sound in dry air at 20 degrees Celsius is approximately 343 meters per second (1,125 feet per second)."
+  },
+  {
+    "q": "What is the capital of Germany?",
+    "a": "The capital of Germany is Berlin."
+  },
+  {
+    "q": "How do you make a cup of instant coffee?",
+    "a": "Add one teaspoon of instant coffee granules to a mug, pour in hot water, and stir well before adding milk or sugar if desired."
+  },
+  {
+    "q": "What is an exoplanet?",
+    "a": "An exoplanet is a planet that orbits a star outside of our solar system."
+  },
+  {
+    "q": "Who wrote '1984'?",
+    "a": "George Orwell wrote the dystopian novel '1984', which was published in 1949."
+  },
+  {
+    "q": "Why do zebras have stripes?",
+    "a": "Zebras have stripes primarily to deter biting flies and to help confuse predators by creating a motion dazzle effect when they move in a herd."
+  },
+  {
+    "q": "What is the deepest place in the world's oceans?",
+    "a": "The Mariana Trench, specifically the Challenger Deep, is the deepest known point in Earth's oceans."
+  },
+  {
+    "q": "How do you say 'thank you' in German?",
+    "a": "You say 'thank you' in German by saying 'Danke'."
+  },
+  {
+    "q": "What is a glacier?",
+    "a": "A glacier is a huge mass of ice that moves slowly over land, formed by the accumulation and compaction of snow over many years."
+  },
+  {
+    "q": "What is the main ingredient in hummus?",
+    "a": "The main ingredient in hummus is mashed chickpeas, usually blended with tahini, olive oil, lemon juice, and garlic."
+  },
+  {
+    "q": "How does a zipper work?",
+    "a": "A zipper works by using a slider to interlock or separate two rows of specially shaped plastic or metal teeth."
+  },
+  {
+    "q": "What is a pronoun?",
+    "a": "A pronoun is a word that takes the place of a noun, such as 'he', 'she', 'it', or 'they'."
+  },
+  {
+    "q": "Who was Mahatma Gandhi?",
+    "a": "Mahatma Gandhi was an Indian lawyer and anti-colonial nationalist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule."
+  },
+  {
+    "q": "Why do we have eyebrows?",
+    "a": "Eyebrows help keep sweat, rain, and debris out of our eyes, and they also play a crucial role in human communication and facial expressions."
+  },
+  {
+    "q": "What is the smallest bird in the world?",
+    "a": "The bee hummingbird is the smallest bird in the world, native to Cuba."
+  },
+  {
+    "q": "How do you scrub a cast iron skillet?",
+    "a": "Wash it by hand with warm water and a stiff brush, avoid using harsh soap, dry it completely, and rub with a light coat of cooking oil."
+  },
+  {
+    "q": "What is the Panama Canal?",
+    "a": "The Panama Canal is an artificial waterway in Panama that connects the Atlantic Ocean with the Pacific Ocean, cutting down maritime travel time significantly."
+  },
+  {
+    "q": "What causes thunder?",
+    "a": "Thunder is caused by the rapid expansion of air surrounding the path of a lightning bolt, creating a sonic shock wave."
+  },
+  {
+    "q": "How many states are in the United States?",
+    "a": "There are 50 states in the United States."
+  },
+  {
+    "q": "What is an adverb?",
+    "a": "An adverb is a word that modifies or describes a verb, an adjective, or another adverb, often ending in '-ly'."
+  },
+  {
+    "q": "Why do polar bears have white fur?",
+    "a": "Polar bear fur is actually translucent but appears white because it reflects visible light, providing camouflage in the snow and ice."
+  },
+  {
+    "q": "What is anger?",
+    "a": "Anger is an intense emotional state involving a strong uncomfortable and non-cooperative response to a perceived provocation, hurt, or threat."
+  },
+  {
+    "q": "How do you scramble eggs?",
+    "a": "Whisk eggs in a bowl with a splash of milk or water, pour into a heated skillet with butter, and stir gently over low heat until soft curds form."
+  },
+  {
+    "q": "What is the capital of Spain?",
+    "a": "The capital of Spain is Madrid."
+  },
+  {
+    "q": "How does a solar panel generate electricity?",
+    "a": "Solar panels generate electricity by absorbing sunlight with photovoltaic cells, which knocks electrons loose and creates a flow of direct current electricity."
+  },
+  {
+    "q": "What is the lightest element in the periodic table?",
+    "a": "Hydrogen is the lightest and most abundant element in the universe."
+  },
+  {
+    "q": "Who invented the printing press?",
+    "a": "Johannes Gutenberg invented the movable-type printing press around 1440."
+  },
+  {
+    "q": "Why do dogs wag their tails?",
+    "a": "Dogs wag their tails to communicate various emotions, including happiness, excitement, nervousness, or aggression."
+  },
+  {
+    "q": "What is the ozone layer?",
+    "a": "The ozone layer is a region of Earth's stratosphere that absorbs most of the Sun's harmful ultraviolet radiation."
+  },
+  {
+    "q": "How do you clear your web browser cache?",
+    "a": "Open your browser's settings or history menu, select the option to clear browsing data, check the box for cached images and files, and confirm the deletion."
+  },
+  {
+    "q": "What is the melting point of ice?",
+    "a": "The melting point of ice is 32 degrees Fahrenheit or 0 degrees Celsius at standard atmospheric pressure."
+  },
+  {
+    "q": "What is fear?",
+    "a": "Fear is a powerful, primitive human emotion triggered by a perceived threat or danger, alerting the body to a need for survival."
+  },
+  {
+    "q": "How do spiders spin silk?",
+    "a": "Spiders pull liquid protein from specialized organs called spinnerets, and the tension along with air exposure causes the liquid to solidify into silk threads."
+  },
+  {
+    "q": "What is the official currency of Japan?",
+    "a": "The official currency of Japan is the Japanese Yen."
+  },
+  {
+    "q": "How does a standard light bulb work?",
+    "a": "An incandescent light bulb works by passing an electric current through a thin filament, heating it until it glows and produces light."
+  },
+  {
+    "q": "What are the primary colors of light?",
+    "a": "The primary colors of light are red, green, and blue, which combine to form white light."
+  },
+  {
+    "q": "Who was Winston Churchill?",
+    "a": "Winston Churchill was the Prime Minister of the United Kingdom who successfully led the country through World War II."
+  },
+  {
+    "q": "Why does ice float on water?",
+    "a": "Ice floats because it is less dense than liquid water, as water molecules expand when they freeze into a crystalline structure."
+  },
+  {
+    "q": "What is an amphibian?",
+    "a": "An amphibian is a cold-blooded, air-breathing vertebrate animal that typically hatches from eggs in water, breathes with gills, and later develops lungs to live on land."
+  },
+  {
+    "q": "How do you mute a television?",
+    "a": "Press the button labeled 'Mute' or showing a speaker icon with a line through it on the remote control."
+  },
+  {
+    "q": "What is the Taj Mahal?",
+    "a": "The Taj Mahal is an ivory-white marble mausoleum in Agra, India, commissioned in 1632 by the Mughal emperor Shah Jahan to house the tomb of his favorite wife."
+  },
+  {
+    "q": "What is a solar eclipse?",
+    "a": "A solar eclipse occurs when the Moon passes between the Earth and the Sun, blocking all or part of the Sun's light from reaching Earth."
+  },
+  {
+    "q": "How do eagles spot prey from far away?",
+    "a": "Eagles have extremely large pupils and a high concentration of light-sensitive cells in their eyes, giving them vision that is up to four times sharper than a human's."
+  },
+  {
+    "q": "What is glucose?",
+    "a": "Glucose is a simple sugar with the molecular formula C6H12O6, serving as a primary source of energy for living organisms."
+  },
+  {
+    "q": "Why do people get goosebumps?",
+    "a": "Goosebumps are an involuntary reflex triggered by cold temperatures or strong emotions, causing tiny muscles at the base of hair follicles to contract and pull the hair upright."
+  },
+  {
+    "q": "What is a preposition?",
+    "a": "A preposition is a word used before a noun or pronoun to show direction, time, place, location, or spatial relationships, such as 'in', 'on', 'at', or 'to'."
+  },
+  {
+    "q": "How do you brew loose-leaf tea?",
+    "a": "Place the loose leaves in a strainer or teapot, pour hot water over them, let them steep for 3 to 5 minutes, and then remove the leaves before drinking."
+  },
+  {
+    "q": "What is the Machu Picchu?",
+    "a": "Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru, set high in the Andes Mountains."
+  },
+  {
+    "q": "What is a comet?",
+    "a": "A comet is an icy, small solar system body that warms up and begins to release gases when passing close to the sun, creating a visible atmosphere or tail."
+  },
+  {
+    "q": "How do you unmute a microphone in a video call?",
+    "a": "Click on the microphone icon, which usually has a slash through it when muted, to turn your microphone back on."
+  },
+  {
+    "q": "What determines the pitch of a sound?",
+    "a": "The pitch of a sound is determined by the frequency of its sound waves; higher frequencies produce a higher pitch, while lower frequencies produce a lower pitch."
+  },
+  {
+    "q": "What is the capital of China?",
+    "a": "The capital of China is Beijing."
+  },
+  {
+    "q": "How do you make hot chocolate?",
+    "a": "Heat milk in a saucepan, stir in cocoa powder and sugar until fully dissolved, and pour into a mug."
+  },
+  {
+    "q": "What is a nebula?",
+    "a": "A nebula is an enormous cloud of dust and gas occupying the space between stars, often acting as a nursery for new stars."
+  },
+  {
+    "q": "Who wrote 'Pride and Prejudice'?",
+    "a": "Jane Austen wrote the classic romance novel 'Pride and Prejudice', published in 1813."
+  },
+  {
+    "q": "Why do wolves howl?",
+    "a": "Wolves howl to communicate over long distances, locate pack members, warn rivals, and coordinate hunting efforts."
+  },
+  {
+    "q": "What is the largest island in the world?",
+    "a": "Greenland is the largest island in the world that is not considered a continent."
+  },
+  {
+    "q": "How do you say 'good morning' in French?",
+    "a": "You say 'good morning' in French by saying 'Bonjour'."
+  },
+  {
+    "q": "What is a plateau?",
+    "a": "A plateau is a flat, elevated landform that rises sharply above the surrounding area on at least one side."
+  },
+  {
+    "q": "What is the main ingredient in marinara sauce?",
+    "a": "The main ingredient in marinara sauce is tomatoes, typically simmered with garlic, herbs, and onions."
+  },
+  {
+    "q": "How does a light switch work?",
+    "a": "A light switch works by opening or closing an electrical circuit, either interrupting or allowing the flow of electricity to the light bulb."
+  },
+  {
+    "q": "What is an interjection?",
+    "a": "An interjection is a word or phrase used to express sudden emotion or exclamation, such as 'Oh!', 'Wow!', or 'Ouch!'."
+  },
+  {
+    "q": "Who was George Washington?",
+    "a": "George Washington was a military general, statesman, and the first President of the United States, serving from 1789 to 1797."
+  },
+  {
+    "q": "Why do we lose our baby teeth?",
+    "a": "We lose baby teeth because our growing jaws require larger, stronger permanent teeth, which push the baby teeth out as they grow underneath."
+  },
+  {
+    "q": "What is the fastest bird in the world?",
+    "a": "The peregrine falcon is the fastest bird, capable of reaching speeds over 200 miles per hour during its hunting dive."
+  },
+  {
+    "q": "How do you clean a greasy pan?",
+    "a": "Wipe away excess grease with a paper towel, apply dish soap and warm water, let it sit for a few minutes, and scrub with a non-abrasive sponge."
+  },
+  {
+    "q": "What is the Erie Canal?",
+    "a": "The Erie Canal is a historic waterway in New York that connects the Great Lakes with the Atlantic Ocean via the Hudson River."
+  },
+  {
+    "q": "What causes the tides?",
+    "a": "Tides are caused by the gravitational forces exerted by the Moon and the Sun, combined with the rotation of the Earth."
+  },
+  {
+    "q": "How many legs does a spider have?",
+    "a": "All spiders have eight legs."
+  },
+  {
+    "q": "What is a fraction?",
+    "a": "A fraction represents a part of a whole, consisting of a numerator on top and a denominator on the bottom."
+  },
+  {
+    "q": "Why do birds migrate south for the winter?",
+    "a": "Birds migrate south primarily to find better food sources and more favorable weather conditions during the cold winter months."
+  },
+  {
+    "q": "What is envy?",
+    "a": "Envy is a painful or resentful emotional awareness of an advantage, possession, or luck enjoyed by another person, joined with a desire to possess the same."
+  },
+  {
+    "q": "How do you tie a basic knot?",
+    "a": "Make a loop with a piece of rope, pass one end through the loop, and pull both ends tight to secure the knot."
+  },
+  {
+    "q": "What is the capital of Egypt?",
+    "a": "The capital of Egypt is Cairo, located near the Nile Delta."
+  },
+  {
+    "q": "How do solar cars work?",
+    "a": "Solar cars use photovoltaic cells mounted on their surface to convert sunlight directly into electricity, which powers an electric motor."
+  },
+  {
+    "q": "What is the chemical symbol for gold?",
+    "a": "The chemical symbol for gold is Au, derived from the Latin word 'aurum'."
+  },
+  {
+    "q": "Who invented the airplane?",
+    "a": "Orville and Wilbur Wright, known as the Wright brothers, are credited with inventing and flying the first successful motor-operated airplane."
+  },
+  {
+    "q": "Why do dogs bury bones?",
+    "a": "Dogs bury bones as an instinct inherited from their wild ancestors to save surplus food for later and protect it from other scavengers."
+  },
+  {
+    "q": "What is the carbon cycle?",
+    "a": "The carbon cycle is the process by which carbon compounds are interchanged among the biosphere, atmosphere, oceans, and geosphere of the Earth."
+  },
+  {
+    "q": "How do you force restart a frozen smartphone?",
+    "a": "Press and hold the power button along with the volume down button simultaneously for about 10 seconds until the screen turns off and reboots."
+  },
+  {
+    "q": "What is the freezing point of water in Kelvin?",
+    "a": "The freezing point of water is 273.15 Kelvin."
+  },
+  {
+    "q": "What is loneliness?",
+    "a": "Loneliness is an unpleasant emotional response to perceived isolation or a lack of meaningful social connection."
+  },
+  {
+    "q": "How do caterpillars turn into butterflies?",
+    "a": "A caterpillar enters a pupa or chrysalis stage, where its body breaks down and reorganizes into the structure of an adult butterfly."
+  },
+  {
+    "q": "What is the currency of Mexico?",
+    "a": "The currency of Mexico is the Mexican Peso."
+  },
+  {
+    "q": "How does a magnifying glass work?",
+    "a": "A magnifying glass uses a convex lens to bend light rays inward, creating a larger virtual image of the object on our retinas."
+  },
+  {
+    "q": "What are the primary colors of paint?",
+    "a": "The traditional primary colors of paint are red, yellow, and blue."
+  },
+  {
+    "q": "Who was Alexander the Great?",
+    "a": "Alexander the Great was a king of the ancient Greek kingdom of Macedon who created one of the largest empires in history by his early thirties."
+  },
+  {
+    "q": "Why do hot air balloons rise?",
+    "a": "They rise because the air inside the balloon is heated, making it less dense than the cooler air outside, which creates lift."
+  },
+  {
+    "q": "What is an insect?",
+    "a": "An insect is a small arthropod animal that has six legs, a three-part body consisting of a head, thorax, and abdomen, and typically one or two pairs of wings."
+  },
+  {
+    "q": "How do you change a light bulb?",
+    "a": "Turn off the power switch, allow the old bulb to cool, gently unscrew it counterclockwise, and screw the new bulb in clockwise until secure."
+  },
+  {
+    "q": "What is Stonehenge?",
+    "a": "Stonehenge is a prehistoric monument in Wiltshire, England, consisting of a ring of standing stones constructed thousands of years ago."
+  },
+  {
+    "q": "What is a total solar eclipse?",
+    "a": "A total solar eclipse happens when the Moon completely blocks the Sun's bright face, turning day into temporary darkness for a specific path on Earth."
+  },
+  {
+    "q": "How do owls hunt in total darkness?",
+    "a": "Owls have highly developed hearing and specialized feathers that allow for silent flight, enabling them to detect and surprise prey by sound alone."
+  },
+  {
+    "q": "What is carbohydrate?",
+    "a": "A carbohydrate is a biomolecule consisting of carbon, hydrogen, and oxygen atoms, serving as a major energy source for the body."
+  },
+  {
+    "q": "Why do we sneeze?",
+    "a": "We sneeze because our bodies are trying to involuntarily expel irritants, such as dust, pollen, or microbes, from our nasal cavity."
+  },
+  {
+    "q": "What is an article in grammar?",
+    "a": "An article is a word used to modify a noun, indicating whether the noun is specific or general, such as 'the', 'a', or 'an'."
+  },
+  {
+    "q": "How do you roast vegetables?",
+    "a": "Chop the vegetables, toss them with olive oil, salt, and pepper, spread them in a single layer on a baking sheet, and bake at 400 degrees Fahrenheit until tender."
+  },
+  {
+    "q": "What is the Lincoln Memorial?",
+    "a": "The Lincoln Memorial is a US national memorial built to honor the 16th President of the United States, Abraham Lincoln, located in Washington, D.C."
+  },
+  {
+    "q": "What is a meteor shower?",
+    "a": "A meteor shower is a celestial event in which a number of meteors are observed to radiate, or originate, from one point in the night sky, caused by debris from comets."
+  },
+  {
+    "q": "How do you take a photo with a smartphone?",
+    "a": "Open the camera app, point the lens at your subject, tap the screen to focus if necessary, and press the shutter button."
+  },
+  {
+    "q": "What is resonance?",
+    "a": "Resonance occurs when a system vibrates at a specific frequency, called its natural frequency, causing a large increase in amplitude when exposed to matching external vibrations."
+  },
+  {
+    "q": "Why is Pluto no longer considered a planet?",
+    "a": "In 2006, scientists reclassified Pluto as a dwarf planet because it has not cleared its neighboring orbit of other debris and objects."
+  },
+  {
+    "q": "What is the only mammal capable of true, sustained flight?",
+    "a": "The bat is the only mammal that can truly fly, using wings made of skin stretched over elongated finger bones."
+  },
+  {
+    "q": "How does a magnifying glass make things look bigger?",
+    "a": "It uses a convex lens to bend light rays inward, which trick our eyes into seeing a larger, magnified image of the object."
+  },
+  {
+    "q": "What is the main source of energy for Earth's weather systems?",
+    "a": "The Sun provides the thermal energy that heats our atmosphere, oceans, and land, driving wind and weather patterns."
+  },
+  {
+    "q": "Who was the ancient Greek god of the sea?",
+    "a": "Poseidon was the ancient Greek god of the sea, storms, earthquakes, and horses."
+  },
+  {
+    "q": "What does 'CPU' stand for in computer science?",
+    "a": "CPU stands for Central Processing Unit, which acts as the primary brain of a computer to carry out program instructions."
+  },
+  {
+    "q": "What is the tallest grass in the world?",
+    "a": "Bamboo is actually a giant grass, and some species can grow up to several feet in a single day."
+  },
+  {
+    "q": "How do fireflies glow in the dark?",
+    "a": "Fireflies produce light through a chemical reaction in their bodies called bioluminescence, which they use to attract mates or ward off predators."
+  },
+  {
+    "q": "What has keys but can't open locks, and has space but no room?",
+    "a": "A computer keyboard fits this description perfectly."
+  },
+  {
+    "q": "Why is the symbol for gold 'Au'?",
+    "a": "The symbol 'Au' comes from the Latin word for gold, 'aurum', which translates to 'shining dawn'."
+  },
+  {
+    "q": "What is the function of the human heart?",
+    "a": "The heart is a muscular pump that circulates blood throughout the body, delivering oxygen and nutrients to tissues."
+  },
+  {
+    "q": "How do deciduous trees prepare for winter?",
+    "a": "Deciduous trees shed their leaves in autumn to conserve water and energy during the cold winter months."
+  },
+  {
+    "q": "Who was the first female pilot to fly solo across the Atlantic Ocean?",
+    "a": "Amelia Earhart achieved this historic milestone in May 1932."
+  },
+  {
+    "q": "What makes a material a good electrical conductor?",
+    "a": "Good conductors, like copper or gold, have free electrons that can move easily through the material to carry an electric current."
+  },
+  {
+    "q": "What is the primary function of roots in a plant?",
+    "a": "Roots anchor the plant securely in the ground and absorb water and essential minerals from the soil."
+  },
+  {
+    "q": "Why do some insects look like twigs or leaves?",
+    "a": "This is a survival adaptation called mimicry, which helps them blend into their surroundings to hide from hungry predators."
+  },
+  {
+    "q": "What is the largest organ of the human body?",
+    "a": "The skin is the largest organ, acting as a protective barrier and helping to regulate our body temperature."
+  },
+  {
+    "q": "What gas do humans breathe out as a waste product?",
+    "a": "Humans exhale carbon dioxide, which is produced during cellular respiration."
+  },
+  {
+    "q": "What is the main language spoken in Brazil?",
+    "a": "Portuguese is the official and most widely spoken language in Brazil."
+  },
+  {
+    "q": "What creates a sound echo?",
+    "a": "An echo is created when sound waves hit a hard, flat surface like a wall or a cliff and bounce back to your ears."
+  },
+  {
+    "q": "What is the purpose of the international space station?",
+    "a": "It serves as a microgravity space laboratory where international crews conduct unique scientific research."
+  },
+  {
+    "q": "Why do we have salivary glands?",
+    "a": "Salivary glands produce saliva, which keeps the mouth moist, protects teeth, and contains enzymes to start breaking down food."
+  },
+  {
+    "q": "What is the difference between weather and climate?",
+    "a": "Weather describes short-term atmospheric conditions, while climate refers to the average weather patterns of a region over a long period."
+  },
+  {
+    "q": "Who wrote the fantasy novel 'The Hobbit'?",
+    "a": "J.R.R. Tolkien wrote 'The Hobbit', which was published in 1937."
+  },
+  {
+    "q": "What are the three main types of rocks?",
+    "a": "The three main types of rocks are sedimentary, metamorphic, and igneous."
+  },
+  {
+    "q": "How do solar panels work?",
+    "a": "Solar panels use photovoltaic cells to absorb sunlight and convert it directly into electricity."
+  },
+  {
+    "q": "What is the purpose of the physical library?",
+    "a": "A library is a public space that stores and organizes books, digital media, and other educational resources for people to borrow and read."
+  },
+  {
+    "q": "Why do onions make people cry when chopped?",
+    "a": "Chopping onions breaks open cells, releasing a gas that reacts with the moisture in our eyes to form a mild acid, triggering tears."
+  },
+  {
+    "q": "What is the tallest species of tree in the world?",
+    "a": "The Coast Redwood is the tallest tree species, with some individuals growing over 350 feet tall in California."
+  },
+  {
+    "q": "How many colors make up a white light beam?",
+    "a": "White light is made up of all the colors of the rainbow combined together."
+  },
+  {
+    "q": "What is the closest star to Earth?",
+    "a": "The Sun is the closest star to Earth, located about 93 million miles away."
+  },
+  {
+    "q": "How do geysers work?",
+    "a": "Underground water is heated by magma until it boils, creating high pressure that erupts steam and water into the air."
+  },
+  {
+    "q": "Who painted the mural 'The Last Supper'?",
+    "a": "Leonardo da Vinci painted 'The Last Supper' in the late 15th century."
+  },
+  {
+    "q": "What is the purpose of a dictionary?",
+    "a": "A dictionary is a reference book that lists words alphabetically, providing their definitions, pronunciations, and origins."
+  },
+  {
+    "q": "Why do camels have humps?",
+    "a": "Camels store fat in their humps, which they use as an energy source when food and water are scarce."
+  },
+  {
+    "q": "What is the freezing point of water in Fahrenheit?",
+    "a": "Water freezes at 32 degrees Fahrenheit."
+  },
+  {
+    "q": "What is the largest hot desert in the world?",
+    "a": "The Sahara Desert in Africa is the largest hot desert on Earth."
+  },
+  {
+    "q": "How do you say 'friend' in Spanish?",
+    "a": "You say 'friend' in Spanish as 'amigo' for a male friend and 'amiga' for a female friend."
+  },
+  {
+    "q": "What is the softest mineral on the Mohs hardness scale?",
+    "a": "Talc is the softest mineral and can be easily scratched by a fingernail."
+  },
+  {
+    "q": "What causes the sound of a whip cracking?",
+    "a": "The tip of a whip moves so fast that it breaks the sound barrier, creating a tiny sonic boom."
+  },
+  {
+    "q": "What is the primary function of white blood cells?",
+    "a": "White blood cells are part of the immune system and help fight infections and diseases in the body."
+  },
+  {
+    "q": "How do fish navigate in murky water?",
+    "a": "Fish use their lateral line system, a row of sensory organs along their sides, to detect vibrations and pressure changes in the water."
+  },
+  {
+    "q": "Who was the ancient Egyptian god of the afterlife?",
+    "a": "Anubis, often depicted with a jackal's head, was the god associated with mummification and the afterlife."
+  },
+  {
+    "q": "What is the main ingredient in chocolate?",
+    "a": "The main ingredient in chocolate is cocoa beans, harvested from the cacao tree."
+  },
+  {
+    "q": "What gas do green plants absorb during the day?",
+    "a": "Plants absorb carbon dioxide to perform photosynthesis."
+  },
+  {
+    "q": "What is a palindrome?",
+    "a": "A palindrome is a word, phrase, or number that reads the same backward as forward, like 'radar' or 'kayak'."
+  },
+  {
+    "q": "Why is the sea salty?",
+    "a": "Rainwater dissolves minerals and salts from rocks on land, which are carried by rivers into the ocean where they accumulate."
+  },
+  {
+    "q": "How do birds keep warm in winter?",
+    "a": "Birds fluff up their feathers to trap pockets of warm air close to their bodies, and some huddle together for warmth."
+  },
+  {
+    "q": "What is the smallest continent in the world?",
+    "a": "Australia is the smallest continent by land area."
+  },
+  {
+    "q": "What is a light-year?",
+    "a": "A light-year is the distance that light travels in one year, which is about 5.88 trillion miles."
+  },
+  {
+    "q": "What is the role of an architect?",
+    "a": "An architect designs and plans the structure, layout, and safety of buildings and outdoor spaces."
+  },
+  {
+    "q": "How do trees help combat climate change?",
+    "a": "Trees absorb carbon dioxide from the air and store carbon in their wood and soil, acting as natural carbon sinks."
+  },
+  {
+    "q": "What does 'WWW' stand for in a website address?",
+    "a": "WWW stands for World Wide Web, which is an information system where documents and web resources are identified."
+  },
+  {
+    "q": "Why do our bodies shiver when cold?",
+    "a": "Shivering is an automatic muscle response that generates heat to help raise our body temperature."
+  },
+  {
+    "q": "What is the main chemical component of sand?",
+    "a": "Most sand is composed of silicon dioxide, usually in the form of quartz crystals."
+  },
+  {
+    "q": "Who is credited with inventing the printing press?",
+    "a": "Johannes Gutenberg invented the metal movable-type printing press around 1440."
+  },
+  {
+    "q": "How do mushrooms reproduce?",
+    "a": "Mushrooms reproduce by releasing millions of tiny, microscopic particles called spores into the air."
+  },
+  {
+    "q": "What is the capital of Sweden?",
+    "a": "The capital of Sweden is Stockholm."
+  },
+  {
+    "q": "Why do we experience day and night?",
+    "a": "We experience day and night because Earth rotates on its axis once every 24 hours, turning different parts toward the Sun."
+  },
+  {
+    "q": "What is the most common element in the universe?",
+    "a": "Hydrogen is the most abundant and simplest element, making up roughly 75% of the universe's elemental mass."
+  },
+  {
+    "q": "How does a standard compass point north?",
+    "a": "It contains a small magnet that aligns itself with the magnetic field lines of the Earth."
+  },
+  {
+    "q": "What is the currency of the European Union?",
+    "a": "The official currency used by most member nations of the European Union is the Euro."
+  },
+  {
+    "q": "What animal is known as the 'ship of the desert'?",
+    "a": "The camel is called the ship of the desert because of its ability to travel easily across sandy terrain."
+  },
+  {
+    "q": "Why do some trees keep their leaves all year?",
+    "a": "Evergreen trees have specialized, needle-like leaves with waxy coatings that reduce water loss, letting them stay green through winter."
+  },
+  {
+    "q": "Who developed the laws of motion and gravitation?",
+    "a": "Sir Isaac Newton formulated the three laws of motion and the law of universal gravitation."
+  },
+  {
+    "q": "What is a glacier made of?",
+    "a": "A glacier is a massive, slow-moving river of compacted ice and snow formed over many centuries."
+  },
+  {
+    "q": "How do honeybees communicate the location of flowers?",
+    "a": "Honeybees perform a unique 'waggle dance' inside the hive to tell other bees the direction and distance to a food source."
+  },
+  {
+    "q": "What is the capital of Spain?",
+    "a": "The capital of Spain is Madrid."
+  },
+  {
+    "q": "Why is nitrogen important to living things?",
+    "a": "Nitrogen is a key component of amino acids, proteins, and DNA, which are essential building blocks of life."
+  },
+  {
+    "q": "What is the main ingredient in traditional glass?",
+    "a": "The primary ingredient in glass is silica, which is melted sand mixed with soda ash and limestone."
+  },
+  {
+    "q": "How does the water cycle clean water?",
+    "a": "When water evaporates, it leaves behind impurities and salts, leaving clean, pure water vapor to condense and fall as rain."
+  },
+  {
+    "q": "What is the deepest lake in the world?",
+    "a": "Lake Baikal in Russia is the world's deepest and oldest freshwater lake."
+  },
+  {
+    "q": "Who was the first person to travel into space?",
+    "a": "Yuri Gagarin, a Soviet cosmonaut, became the first human in space in April 1961."
+  },
+  {
+    "q": "Why do we have finger prints?",
+    "a": "Our fingerprints help us grip objects by increasing friction, and they are completely unique to each individual."
+  },
+  {
+    "q": "What is the main component of a cloud?",
+    "a": "Clouds are made of billions of tiny, suspended liquid water droplets or ice crystals."
+  },
+  {
+    "q": "How do snakes smell their surroundings?",
+    "a": "Snakes flick their tongues to collect particles from the air, then press their tongue against a special organ in their mouth to sense smells."
+  },
+  {
+    "q": "What is the largest planet in our solar system?",
+    "a": "Jupiter is the largest planet, so massive that more than 1,300 Earths could fit inside it."
+  },
+  {
+    "q": "Why does hot air rise?",
+    "a": "When air is heated, its molecules move faster and spread out, making it lighter and less dense than the cold air around it."
+  },
+  {
+    "q": "What is the primary function of leaves?",
+    "a": "Leaves are the main sites of photosynthesis, absorbing sunlight and air to make food for the plant."
+  },
+  {
+    "q": "How do you protect your teeth from cavities?",
+    "a": "Brush your teeth twice a day with fluoride toothpaste, floss daily, and limit sugary snacks and drinks."
+  },
+  {
+    "q": "What is the capital of India?",
+    "a": "The capital of India is New Delhi."
+  },
+  {
+    "q": "Why do planets orbit the Sun?",
+    "a": "The massive gravitational pull of the Sun keeps all the planets locked into orbital paths around it."
+  },
+  {
+    "q": "What are fossils?",
+    "a": "Fossils are the preserved remains, impressions, or traces of ancient organisms that lived millions of years ago."
+  },
+  {
+    "q": "How do we taste our food?",
+    "a": "Our tongues are covered in taste buds that detect sweet, sour, salty, bitter, and savory flavors, working closely with our sense of smell."
+  },
+  {
+    "q": "What is the atmospheric gas that protects us from solar radiation?",
+    "a": "Ozone gas in the stratosphere absorbs harmful ultraviolet radiation from the Sun."
+  },
+  {
+    "q": "Why does a metal slide feel hot on a sunny day?",
+    "a": "Metal is an excellent conductor of heat, meaning it absorbs energy from sunlight quickly and transfers it rapidly to your skin."
+  },
+  {
+    "q": "What are the four cardinal directions on a map?",
+    "a": "The four cardinal directions are North, South, East, and West."
+  },
+  {
+    "q": "What makes up the skeletal system?",
+    "a": "The skeletal system is made of bones, cartilage, and joints that provide structure, protect organs, and support movement."
+  },
+  {
+    "q": "How do plants make seeds?",
+    "a": "Plants make seeds through pollination, where pollen is transferred to the flower's female parts to fertilize the eggs."
+  },
+  {
+    "q": "What is the capital of Egypt?",
+    "a": "The capital of Egypt is Cairo."
+  },
+  {
+    "q": "Why is recycling helpful?",
+    "a": "Recycling reduces waste, saves energy, conserves natural resources, and lowers pollution by turning old products into new materials."
+  },
+  {
+    "q": "What is a predator?",
+    "a": "A predator is an animal that hunts, kills, and eats other animals for survival."
+  },
+  {
+    "q": "How do mountains form?",
+    "a": "Mountains form when tectonic plates collide, forcing the Earth's crust to buckle, fold, and push upward over millions of years."
+  },
+  {
+    "q": "What is the role of red blood cells?",
+    "a": "Red blood cells use a protein called hemoglobin to carry oxygen from your lungs to the rest of your body."
+  },
+  {
+    "q": "Why is the moon bright at night?",
+    "a": "The moon does not produce its own light; it looks bright because its surface reflects sunlight toward the Earth."
+  },
+  {
+    "q": "What is the capital of Mexico?",
+    "a": "The capital of Mexico is Mexico City."
+  },
+  {
+    "q": "How does rain form?",
+    "a": "Water vapor in clouds cools and condenses into liquid water drops, which grow heavy and fall to the ground due to gravity."
+  },
+  {
+    "q": "What is the main source of energy for plants?",
+    "a": "Sunlight is the primary energy source that plants capture to fuel their growth."
+  },
+  {
+    "q": "Why is a healthy sleep schedule important?",
+    "a": "Getting enough sleep helps the brain process memories, repairs body tissues, supports growth, and boosts the immune system."
+  },
+  {
+    "q": "What are nocturnal animals?",
+    "a": "Nocturnal animals are species that are active primarily during the night and sleep during the day, like owls or raccoons."
+  },
+  {
+    "q": "Why do we have leap years?",
+    "a": "We have leap years to keep our calendar in alignment with the Earth's revolutions around the Sun. It takes the Earth about 365.25 days to circle the Sun, so we add an extra day every four years to make up the difference."
+  },
+  {
+    "q": "What is the hottest planet in our solar system?",
+    "a": "Venus is the hottest planet in our solar system. Even though Mercury is closer to the Sun, Venus has a thick atmosphere that traps heat in a runaway greenhouse effect."
+  },
+  {
+    "q": "What is the main source of energy for Earth's water cycle?",
+    "a": "The Sun is the main source of energy driving the water cycle. Its heat causes water to evaporate from oceans, lakes, and rivers into the atmosphere."
+  },
+  {
+    "q": "Why do some trees lose their leaves in the fall?",
+    "a": "Deciduous trees shed their leaves to conserve water and energy during the cold winter months. Without leaves, the trees can survive harsh weather with very little resources."
+  },
+  {
+    "q": "What is the only bird that can fly backwards?",
+    "a": "The hummingbird is the only bird capable of flying backwards. Their unique shoulder joints allow their wings to rotate in a figure-eight motion, providing amazing agility."
+  },
+  {
+    "q": "How many hearts does an octopus have?",
+    "a": "An octopus has three hearts. Two hearts pump blood to the gills, while the third circulates it to the rest of the body."
+  },
+  {
+    "q": "What is the purpose of the human skeletal system?",
+    "a": "The skeletal system provides structural support for the body, protects delicate internal organs, and works with muscles to allow movement."
+  },
+  {
+    "q": "What is a solar eclipse?",
+    "a": "A solar eclipse occurs when the Moon passes directly between the Earth and the Sun, temporarily blocking the Sun's light from reaching our view."
+  },
+  {
+    "q": "Why do chameleons change color?",
+    "a": "Chameleons change color mainly to regulate their body temperature, express social signals, and communicate their mood, rather than just for camouflage."
+  },
+  {
+    "q": "What is the primary function of red blood cells?",
+    "a": "Red blood cells carry oxygen from our lungs to the rest of the body and bring carbon dioxide back to the lungs to be exhaled."
+  },
+  {
+    "q": "What is the tallest grass species in the world?",
+    "a": "Bamboo is the tallest grass in the world. Some species of bamboo can grow up to several feet in a single day under optimal conditions."
+  },
+  {
+    "q": "How do fireflies produce their light?",
+    "a": "Fireflies produce light through a chemical reaction in their lower abdomen called bioluminescence. This light is incredibly efficient because it produces almost no heat."
+  },
+  {
+    "q": "What is the difference between a physical and chemical change?",
+    "a": "A physical change alters the form or appearance of a substance without making it a new substance, like melting ice. A chemical change creates a brand-new substance, like burning wood."
+  },
+  {
+    "q": "Who wrote the famous adventure novel 'Treasure Island'?",
+    "a": "Robert Louis Stevenson wrote the classic adventure story 'Treasure Island', which was published in 1883."
+  },
+  {
+    "q": "What makes up the center of an atom?",
+    "a": "The center of an atom is called the nucleus, which contains protons and neutrons. Electrons spin around this central core."
+  },
+  {
+    "q": "Why are rainforests often called the 'lungs of the Earth'?",
+    "a": "Rainforests are called the lungs of the Earth because their vast number of trees release huge amounts of oxygen and absorb carbon dioxide through photosynthesis."
+  },
+  {
+    "q": "What is the largest species of shark?",
+    "a": "The whale shark is the largest living species of shark. Despite their massive size, they are gentle filter feeders that eat plankton."
+  },
+  {
+    "q": "What is the main language spoken in Egypt?",
+    "a": "Arabic is the official language spoken in Egypt."
+  },
+  {
+    "q": "Why do our bodies shiver when we are cold?",
+    "a": "Shivering is an automatic reflex where our muscles rapidly contract and relax. This movement generates heat to help warm up our body temperature."
+  },
+  {
+    "q": "What are the three main types of clouds?",
+    "a": "The three main types of clouds are cumulus (puffy), stratus (flat layers), and cirrus (wispy and high up)."
+  },
+  {
+    "q": "How does a standard barometer work?",
+    "a": "A barometer measures atmospheric pressure. High pressure usually indicates clear and sunny weather, while falling pressure suggests rain or storms are coming."
+  },
+  {
+    "q": "What is the smallest bone in the human body?",
+    "a": "The stapes, also known as the stirrup bone, is the smallest bone. It is located inside the middle ear and helps conduct sound vibrations."
+  },
+  {
+    "q": "Why is Venus sometimes called Earth's twin?",
+    "a": "Venus is called Earth's twin because the two planets are very similar in size, mass, and density, even though their atmospheric conditions are incredibly different."
+  },
+  {
+    "q": "What do pandas primarily eat?",
+    "a": "Pandas eat bamboo almost exclusively, spending up to 12 hours a day chewing on stems, leaves, and shoots."
+  },
+  {
+    "q": "What does 'DNA' stand for?",
+    "a": "DNA stands for Deoxyribonucleic Acid. It is the molecule that carries the genetic blueprint for all living organisms."
+  },
+  {
+    "q": "What is the largest desert on Earth?",
+    "a": "The Antarctic Desert is the largest desert on Earth. A desert is defined by its extremely low level of precipitation, not its temperature."
+  },
+  {
+    "q": "Who is credited with discovering gravity?",
+    "a": "Sir Isaac Newton is credited with developing the theory of universal gravitation after observing an apple fall from a tree."
+  },
+  {
+    "q": "What is the deepest known point in the ocean?",
+    "a": "The Challenger Deep, located in the Mariana Trench in the western Pacific Ocean, is the deepest known point on Earth."
+  },
+  {
+    "q": "How do chameleons hunt for insects?",
+    "a": "Chameleons use their long, muscular tongues, which can shoot out in milliseconds and have a sticky tip to snare insects."
+  },
+  {
+    "q": "What is the currency of Canada?",
+    "a": "The currency of Canada is the Canadian Dollar."
+  },
+  {
+    "q": "Why do some insects look like twigs or leaves?",
+    "a": "This is a form of camouflage called mimicry. It helps insects hide from birds and other predators by blending in with natural foliage."
+  },
+  {
+    "q": "What is the main function of the kidneys?",
+    "a": "The kidneys filter waste materials and excess water out of the blood to create urine, helping to keep our body chemistry balanced."
+  },
+  {
+    "q": "What are the primary colors on a traditional color wheel?",
+    "a": "The primary colors are red, yellow, and blue. They cannot be made by mixing other colors together."
+  },
+  {
+    "q": "How do bats navigate in the dark?",
+    "a": "Bats navigate using echolocation. They emit high-frequency sounds that bounce off objects, allowing them to map their surroundings in total darkness."
+  },
+  {
+    "q": "What was the first animal to travel into space?",
+    "a": "A dog named Laika was the first animal to orbit the Earth, launched aboard the Soviet spacecraft Sputnik 2 in 1957."
+  },
+  {
+    "q": "What is the meaning of the word 'synonym'?",
+    "a": "A synonym is a word that has the same, or nearly the same, meaning as another word in the same language."
+  },
+  {
+    "q": "Why is the ocean salty?",
+    "a": "Rainwater washes minerals and salts from rocks on land into rivers, which carry them into the ocean where they collect over millions of years."
+  },
+  {
+    "q": "What is the main compound found in sand?",
+    "a": "The main compound in sand is silicon dioxide, which is usually found in the form of quartz crystals."
+  },
+  {
+    "q": "Who was the first person to step onto the Moon?",
+    "a": "Neil Armstrong became the first person to walk on the Moon on July 20, 1969, during the Apollo 11 mission."
+  },
+  {
+    "q": "How do plants drink water from the soil?",
+    "a": "Plants absorb water through their roots using tiny root hairs, and the water travels upward through a system of tubes called the xylem."
+  },
+  {
+    "q": "What is a palindrome?",
+    "a": "A palindrome is a word, phrase, or sequence of numbers that reads the same backward as forward, such as 'madam' or 'racecar'."
+  },
+  {
+    "q": "What is the most common gas in Earth's atmosphere?",
+    "a": "Nitrogen is the most common gas, making up about 78 percent of the air we breathe."
+  },
+  {
+    "q": "Why do we see rainbows after a rainstorm?",
+    "a": "Rainbows appear when sunlight shines through water droplets still floating in the air. The droplets act like tiny prisms, bending and separating the light into its colors."
+  },
+  {
+    "q": "What is the role of an architect?",
+    "a": "An architect is a professional who designs buildings and other physical structures, ensuring they are safe, beautiful, and functional."
+  },
+  {
+    "q": "How do honeybees communicate the location of food?",
+    "a": "Honeybees communicate the direction and distance of flowers by performing a special movement called the 'waggle dance' inside the hive."
+  },
+  {
+    "q": "What is the capital of Sweden?",
+    "a": "The capital of Sweden is Stockholm, which is built on fourteen islands connected by many bridges."
+  },
+  {
+    "q": "Why do we yawn?",
+    "a": "While the exact reason is still studied, scientists believe yawning helps cool down the brain and can increase alertness when we are tired."
+  },
+  {
+    "q": "What is the largest land mammal?",
+    "a": "The African bush elephant is the largest land mammal, weighing up to several tons."
+  },
+  {
+    "q": "What is the purpose of a dictionary?",
+    "a": "A dictionary is a reference tool that lists words in alphabetical order to provide their definitions, spelling, pronunciation, and origin."
+  },
+  {
+    "q": "How do mushrooms obtain nutrients?",
+    "a": "Mushrooms are fungi, so they do not make their own food through photosynthesis. Instead, they absorb nutrients from decaying organic matter around them."
+  },
+  {
+    "q": "What is a light-year?",
+    "a": "A light-year is the distance that light can travel in one Earth year, which is about 5.88 trillion miles."
+  },
+  {
+    "q": "Who painted the famous ceiling of the Sistine Chapel?",
+    "a": "The Italian artist Michelangelo painted the Sistine Chapel ceiling between 1508 and 1512."
+  },
+  {
+    "q": "What is the function of the human heart?",
+    "a": "The heart is a muscular organ that pumps oxygen-rich blood throughout the circulatory system to keep our body systems functioning."
+  },
+  {
+    "q": "Why do apples turn brown after they are sliced?",
+    "a": "Slicing an apple exposes its enzymes to oxygen in the air, causing a chemical reaction called oxidation that turns the flesh brown."
+  },
+  {
+    "q": "What is the capital of Spain?",
+    "a": "The capital of Spain is Madrid."
+  },
+  {
+    "q": "How do solar cars get power?",
+    "a": "Solar cars use built-in photovoltaic panels to capture sunlight and turn it into electricity, which powers an electric motor."
+  },
+  {
+    "q": "What are the four main cardinal directions?",
+    "a": "The four main cardinal directions are North, South, East, and West."
+  },
+  {
+    "q": "Why is recycling helpful to the environment?",
+    "a": "Recycling reduces the amount of waste sent to landfills, conserves valuable natural resources, and saves energy compared to making new products."
+  },
+  {
+    "q": "What is a predator in an ecosystem?",
+    "a": "A predator is an animal that naturally preys on, hunts, and consumes other animals to survive."
+  },
+  {
+    "q": "How do mountains form?",
+    "a": "Mountains form when large blocks of the Earth's crust, called tectonic plates, collide and push upward over millions of years."
+  },
+  {
+    "q": "Why does the Moon look bright in the night sky?",
+    "a": "The Moon does not make its own light. It looks bright because its rocky surface reflects light coming from the Sun."
+  },
+  {
+    "q": "What is the capital of Mexico?",
+    "a": "The capital of Mexico is Mexico City, which is one of the most populous cities in North America."
+  },
+  {
+    "q": "How does rain form in the clouds?",
+    "a": "As water vapor in a cloud cools, it condenses into tiny liquid droplets. When these droplets grow too heavy to float, they fall as rain."
+  },
+  {
+    "q": "Why do green leaves turn orange and yellow in autumn?",
+    "a": "When the weather cools, plants stop producing the green pigment chlorophyll. This allows other pigments already in the leaves, like orange and yellow, to show."
+  },
+  {
+    "q": "What are nocturnal animals?",
+    "a": "Nocturnal animals are species that are active during the night and sleep during the day, such as owls, bats, and raccoons."
+  },
+  {
+    "q": "Who wrote 'The Hobbit'?",
+    "a": "J.R.R. Tolkien wrote 'The Hobbit', which was published in 1937 as a children's fantasy novel."
+  },
+  {
+    "q": "What are the three main states of matter?",
+    "a": "The three primary states of matter are solid, liquid, and gas."
+  },
+  {
+    "q": "Why is the sky blue on a clear day?",
+    "a": "The sky is blue because Earth's atmosphere scatters sunlight in all directions, and blue light is scattered more than other colors because it travels in smaller, shorter waves."
+  },
+  {
+    "q": "What is the main language spoken in Brazil?",
+    "a": "The main language spoken in Brazil is Portuguese."
+  },
+  {
+    "q": "What causes the sound of an echo?",
+    "a": "An echo is caused by sound waves bouncing off a hard, flat surface, like a canyon wall or a large empty room, and returning to your ears."
+  },
+  {
+    "q": "What is the purpose of the International Space Station?",
+    "a": "The International Space Station is a large spacecraft that serves as a home and laboratory where astronauts from different countries conduct scientific research in space."
+  },
+  {
+    "q": "Why do we have eyebrows?",
+    "a": "Eyebrows help keep sweat, rain, and debris from falling into our eyes, and they play a major role in nonverbal communication and facial expressions."
+  },
+  {
+    "q": "What is the difference between weather and climate?",
+    "a": "Weather is the day-to-day conditions of the atmosphere, like a rainy afternoon. Climate is the average weather of a place over a very long time, like a decade."
+  },
+  {
+    "q": "How do trees help clean the air we breathe?",
+    "a": "Trees absorb air pollutants and carbon dioxide through their leaves, filtering the air and releasing clean oxygen back into the environment."
+  },
+  {
+    "q": "What does 'WWW' stand for in a web address?",
+    "a": "WWW stands for World Wide Web, which is a system of public web pages connected by links that can be accessed via the internet."
+  },
+  {
+    "q": "What is the main mineral component of bones?",
+    "a": "Calcium is the primary mineral component that gives bones their strength and rigid structure."
+  },
+  {
+    "q": "How do spiders make their webs?",
+    "a": "Spiders produce liquid silk from special glands in their abdomen. As the silk is pulled out, it is stretched and hardens into strong, flexible threads."
+  },
+  {
+    "q": "What is the capital of Italy?",
+    "a": "The capital of Italy is Rome, an ancient city famous for its rich history and architecture."
+  },
+  {
+    "q": "Why is water important to the human body?",
+    "a": "Water is essential because it regulates our body temperature, cushions our joints, transports nutrients, and helps flush out waste products."
+  },
+  {
+    "q": "What is the largest ocean in the world?",
+    "a": "The Pacific Ocean is the largest and deepest ocean on Earth, covering more area than all the continents combined."
+  },
+  {
+    "q": "How does a bicycle pump inflate a tire?",
+    "a": "A bicycle pump uses a piston to compress air inside a metal cylinder, forcing it through a hose and valve into the tire where the pressure builds up."
+  },
+  {
+    "q": "What is the main ingredient in a traditional omelet?",
+    "a": "Eggs are the main ingredient in an omelet, usually beaten and cooked in a pan with butter or oil."
+  },
+  {
+    "q": "Who was Cleopatra?",
+    "a": "Cleopatra was the last active ruler of the Ptolemaic Kingdom of Egypt, famous for her intelligence, political skill, and alliances with Rome."
+  },
+  {
+    "q": "What is a glacier?",
+    "a": "A glacier is a large, slow-moving river of ice formed from compacted layers of snow that accumulate over hundreds or thousands of years."
+  },
+  {
+    "q": "How do you say 'thank you' in French?",
+    "a": "You say 'thank you' in French by saying 'Merci'."
+  },
+  {
+    "q": "What is the hard outer shell of an insect called?",
+    "a": "The hard outer shell of an insect is called an exoskeleton, which protects their internal organs and supports their body."
+  },
+  {
+    "q": "Why do some desert plants have spines instead of leaves?",
+    "a": "Desert plants like cacti have sharp spines to prevent water loss and protect themselves from hungry animals looking for moisture."
+  },
+  {
+    "q": "Who was Albert Einstein?",
+    "a": "Albert Einstein was a theoretical physicist who is famous for developing the theory of relativity, which revolutionized our understanding of space, time, and gravity."
+  },
+  {
+    "q": "What is a volcano?",
+    "a": "A volcano is an opening in the Earth's crust that allows molten rock, hot ash, and gases to escape from deep underground to the surface."
+  },
+  {
+    "q": "How does a standard magnifying glass work?",
+    "a": "A magnifying glass has a curved lens that bends light rays inward, focusing them so that the image of the object looks larger when it reaches your eye."
+  },
+  {
+    "q": "What is the capital of Australia?",
+    "a": "The capital of Australia is Canberra, which is a planned city located between Sydney and Melbourne."
+  },
+  {
+    "q": "Why do we need to eat a balanced diet?",
+    "a": "Eating a balanced diet ensures our bodies get all the different nutrients, vitamins, and minerals they need to stay healthy, grow, and function properly."
+  },
+  {
+    "q": "What is the currency of the United Kingdom?",
+    "a": "The currency of the United Kingdom is the British Pound Sterling."
+  },
+  {
+    "q": "How do seeds grow into plants?",
+    "a": "When a seed receives water, warmth, and oxygen, it begins a process called germination. The seed swells, splits open, and sprouts roots and shoots."
+  },
+  {
+    "q": "What is the tallest mountain above sea level?",
+    "a": "Mount Everest, located in the Himalayas on the border of Nepal and China, is the tallest mountain above sea level."
+  },
+  {
+    "q": "Who wrote 'Romeo and Juliet'?",
+    "a": "William Shakespeare wrote the famous romantic tragedy play 'Romeo and Juliet' in the late 16th century."
+  },
+  {
+    "q": "What is photosynthesis?",
+    "a": "Photosynthesis is the process green plants use to make their own food by combining sunlight, carbon dioxide, and water to produce sugar and oxygen."
+  },
+  {
+    "q": "Why do we need sleep?",
+    "a": "Sleep allows our bodies to repair tissues, consolidate memories, and give our brains time to rest and reorganize after a busy day."
+  },
+  {
+    "q": "What is the capital of Japan?",
+    "a": "The capital of Japan is Tokyo, which is known for its blend of ultramodern technology and ancient temples."
+  },
+  {
+    "q": "What is the largest mammal on Earth?",
+    "a": "The blue whale is the largest mammal on Earth, growing up to 100 feet long and weighing as much as 200 tons."
+  },
+  {
+    "q": "How do fish breathe underwater?",
+    "a": "Fish breathe by taking water into their mouths and passing it over their gills, which absorb the dissolved oxygen from the water into their bloodstream."
+  },
+  {
+    "q": "What is gravity?",
+    "a": "Gravity is the invisible force that pulls objects toward each other, keeping us on the ground and keeping the planets orbiting the Sun."
+  },
+  {
+    "q": "What is the freezing point of water in Celsius?",
+    "a": "The freezing point of water is 0 degrees Celsius."
+  },
+  {
+    "q": "How do bees make honey?",
+    "a": "Bees collect nectar from flowers, break it down with natural enzymes in their hives, and evaporate the water by fanning their wings to create thick honey."
+  },
+  {
+    "q": "What is a prime number?",
+    "a": "A prime number is a whole number greater than 1 that can only be divided evenly by 1 and itself, such as 3, 5, 7, and 11."
+  },
+  {
+    "q": "What causes earthquakes?",
+    "a": "Earthquakes are caused by tectonic plates underground suddenly shifting, rubbing against each other, or breaking, which releases energy in the form of seismic waves."
+  },
+  {
+    "q": "How many continents are there on Earth?",
+    "a": "There are seven continents on Earth: Asia, Africa, North America, South America, Antarctica, Europe, and Australia."
+  },
+  {
+    "q": "Who painted the Mona Lisa?",
+    "a": "Leonardo da Vinci painted the Mona Lisa in the early 16th century, and it is now housed in the Louvre Museum in Paris."
+  },
+  {
+    "q": "What is the fastest land animal?",
+    "a": "The cheetah is the fastest land animal, capable of accelerating from 0 to 60 miles per hour in just a few seconds."
+  },
+  {
+    "q": "How does a standard magnetic compass work?",
+    "a": "A compass has a tiny, lightweight magnetic needle that is free to spin and automatically aligns itself with the Earth's natural magnetic field, pointing North."
+  },
+  {
+    "q": "What is the main ingredient in bread?",
+    "a": "Flour is the main ingredient in bread, usually combined with water, yeast, and salt to form dough."
+  },
+  {
+    "q": "What is the tallest species of tree in the world?",
+    "a": "The Coast Redwood is the tallest tree species in the world, with some individual trees growing over 370 feet tall in California."
+  },
+  {
+    "q": "What is artificial intelligence?",
+    "a": "Artificial intelligence refers to computer systems or software that can perform tasks that typically require human intelligence, like problem-solving or translating languages."
+  },
+  {
+    "q": "Why do we sweat?",
+    "a": "We sweat to help cool our bodies down. As the sweat evaporates from our skin, it carries away excess heat."
+  },
+  {
+    "q": "What is the internet?",
+    "a": "The internet is a vast, global network of millions of computers connected together to share information, communicate, and transfer data."
+  },
+  {
+    "q": "How do vaccines protect us?",
+    "a": "Vaccines introduce a tiny, harmless part of a virus or bacteria to our immune system, teaching our body how to fight it off without making us sick."
+  },
+  {
+    "q": "What is a telescope?",
+    "a": "A telescope is an optical instrument that uses lenses or curved mirrors to gather light, making distant objects like stars and planets look closer and clearer."
+  },
+  {
+    "q": "Why does the Moon have different phases?",
+    "a": "The Moon has phases because it orbits the Earth, and we see different amounts of its sunlit side as its position changes throughout the month."
+  },
+  {
+    "q": "What is an ecosystem?",
+    "a": "An ecosystem is a community of living organisms interacting with each other and their non-living environment, like soil, water, and weather."
+  },
+  {
+    "q": "How does a microwave cook food?",
+    "a": "A microwave uses electromagnetic waves to vibrate water molecules inside the food, which generates heat through friction and cooks the food quickly."
+  },
+  {
+    "q": "What is the capital of France?",
+    "a": "The capital of France is Paris."
+  },
+  {
+    "q": "Who invented the first practical telephone?",
+    "a": "Alexander Graham Bell is widely credited with patenting the first practical telephone in 1876."
+  },
+  {
+    "q": "What is economic inflation?",
+    "a": "Inflation is a general rise in the prices of goods and services over time, which means that the purchasing power of money decreases."
+  },
+  {
+    "q": "How do bats fly?",
+    "a": "Bats fly using flexible skin membranes stretched between their elongated finger bones and legs, acting like wings that they can steer with high precision."
+  },
+  {
+    "q": "What is the longest river in the world?",
+    "a": "The Nile River in Africa is traditionally considered the longest river in the world, though some scientists argue the Amazon River is longer."
+  },
+  {
+    "q": "Why do humans have emotions?",
+    "a": "Emotions are natural responses that help us navigate relationships, warn us of potential danger, make decisions, and communicate our feelings to others."
+  },
+  {
+    "q": "How does a household refrigerator keep food cold?",
+    "a": "A refrigerator uses a special liquid coolant that absorbs heat from the air inside the fridge and releases it outside through metal coils in the back."
+  },
+  {
+    "q": "Who discovered penicillin?",
+    "a": "Alexander Fleming discovered penicillin in 1928, which became the world's first effective antibiotic to treat bacterial infections."
+  },
+  {
+    "q": "What is a tsunami?",
+    "a": "A tsunami is a series of giant ocean waves caused by sudden underwater disturbances, such as earthquakes, volcanic eruptions, or landslides."
+  },
+  {
+    "q": "What is the hardest natural substance on Earth?",
+    "a": "Diamond is the hardest natural substance, made entirely of carbon atoms tightly bound in a crystal structure."
+  },
+  {
+    "q": "What is empathy?",
+    "a": "Empathy is the ability to understand and share the feelings, perspectives, and experiences of another person."
+  },
+  {
+    "q": "What is the capital of Canada?",
+    "a": "The capital of Canada is Ottawa."
+  },
+  {
+    "q": "How does a digital camera capture photos?",
+    "a": "A digital camera focuses light through a lens onto an electronic sensor, which converts the light into digital code to form a picture."
+  },
+  {
+    "q": "What are clouds made of?",
+    "a": "Clouds are made of billions of tiny liquid water droplets or ice crystals suspended in the atmosphere."
+  },
+  {
+    "q": "What is an atom?",
+    "a": "An atom is the smallest basic unit of a chemical element, consisting of a nucleus surrounded by a cloud of electrons."
+  },
+  {
+    "q": "What is the speed of light in a vacuum?",
+    "a": "The speed of light is about 186,282 miles per second, or nearly 300,000 kilometers per second."
+  },
+  {
+    "q": "What causes the four seasons?",
+    "a": "The four seasons are caused by the tilt of the Earth's axis as it orbits the Sun, which changes how much direct sunlight different parts of the planet receive."
+  },
+  {
+    "q": "What is the difference between a fruit and a vegetable?",
+    "a": "A fruit develops from the flower of a plant and contains seeds, like a tomato. A vegetable is any other edible part of a plant, like a carrot or lettuce."
+  },
+  {
+    "q": "Who wrote 'To Kill a Mockingbird'?",
+    "a": "Harper Lee wrote the famous American novel 'To Kill a Mockingbird', which was published in 1960."
+  },
+  {
+    "q": "How do snakes move across the ground?",
+    "a": "Snakes move by contracting their strong muscles and using the edges of their belly scales to push off surfaces in a slithering motion."
+  },
+  {
+    "q": "What is nostalgia?",
+    "a": "Nostalgia is a warm, sentimental feeling of longing for the past, often associated with happy memories of people or places."
+  },
+  {
+    "q": "How do you format a USB flash drive?",
+    "a": "Plug the drive into a computer, right-click its icon, select 'Format', choose a file system, and click start to erase all its data and prepare it for use."
+  },
+  {
+    "q": "What is our solar system?",
+    "a": "Our solar system consists of the Sun and all the celestial objects bound to it by gravity, including eight major planets and their moons."
+  },
+  {
+    "q": "What is a political democracy?",
+    "a": "A democracy is a system of government where the power is held by the people, who elect representatives to make laws and run the country."
+  },
+  {
+    "q": "How many bones are in an adult human body?",
+    "a": "An adult human body has 206 bones, which are lighter and stronger than they look."
+  },
+  {
+    "q": "What is the function of the plant's stem?",
+    "a": "The stem supports the leaves and flowers, holds the plant upright toward the light, and transports water and nutrients between the roots and leaves."
+  },
+  {
+    "q": "Why is nitrogen important to plants?",
+    "a": "Nitrogen is a key nutrient that plants need to make chlorophyll, which they use to capture sunlight and grow big and strong."
+  },
+  {
+    "q": "What is a mechanical clock?",
+    "a": "A mechanical clock is a device that keeps time using a series of gears, springs, and a pendulum or balance wheel instead of electronics."
+  },
+  {
+    "q": "How do you maintain a healthy sleep cycle?",
+    "a": "Maintain a healthy sleep cycle by going to bed and waking up at the same time every day, keeping your bedroom dark and quiet, and avoiding screens before bed."
+  },
+  {
+    "q": "What is the capital of India?",
+    "a": "The capital of India is New Delhi, located in the northern part of the country."
+  },
+  {
+    "q": "Why does a metal spoon feel colder than a wooden spoon?",
+    "a": "Metal conducts heat much faster than wood, so when you touch a metal spoon, it pulls heat away from your hand rapidly, making it feel colder."
+  },
+  {
+    "q": "What is the role of a computer operating system?",
+    "a": "An operating system manages a computer's hardware and software resources, allowing applications to run and helping the user interact with the machine."
+  },
+  {
+    "q": "How do plants protect themselves from predators?",
+    "a": "Plants protect themselves using physical barriers like thorns, or chemical defenses like bitter tastes or toxins that discourage animals from eating them."
+  },
+  {
+    "q": "What is a solid shape with six equal square faces called?",
+    "a": "A solid shape with six equal square faces is called a cube."
+  },
+  {
+    "q": "Why is the ozone layer important?",
+    "a": "The ozone layer is a thin shield in Earth's atmosphere that absorbs most of the Sun's harmful ultraviolet radiation, protecting living things on Earth."
+  },
+  {
+    "q": "How do you grow tomatoes from seeds?",
+    "a": "Plant tomato seeds in warm soil, water them regularly to keep the soil moist, place them in a sunny spot, and transplant them outside once they sprout."
+  }
+]
